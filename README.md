@@ -102,7 +102,7 @@ cat < newfile
 Hello world
 hello world
 ^d
-````
+```
 cat > newfile 
 Hello world
 hello world
@@ -139,7 +139,7 @@ grep -R ubuntu /etc
 ## OUTPUT
 
 ![Alt text](img/img14.png)
-
+![Alt text](img/image4.png)
 ![Alt text](img/img15.png)
 
 ![Alt text](img/img16.png)
@@ -173,7 +173,7 @@ Linux is best in this World
  ```
 egrep -w 'Hello|hello' newfile 
 ## OUTPUT
-
+![Alt text](img/img21.png)
 ![Alt text](img/img21.png)
 
 egrep -w '(H|h)ello' newfile 
